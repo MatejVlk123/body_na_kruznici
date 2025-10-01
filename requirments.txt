@@ -1,0 +1,4 @@
+streamlit
+matplotlip
+numpy
+pymupdf
